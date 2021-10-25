@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Pomodro",
+    "slug": "Pomodro",
+    "version": "1.0.0",
+    "orientation" : "portrait",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "Pomodro"
+}
